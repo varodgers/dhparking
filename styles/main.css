@@ -1,0 +1,154 @@
+/*@media screen and (max-width: 699px) and (min-width: 520px), (min-width: 760px) {*/
+    /*.form-inline .form-control {*/
+        /*display: inline-block;*/
+        /*width: 30em;*/
+        /*vertical-align: middle;*/
+    /*}*/
+/*}*/
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+}
+
+
+
+a {
+    margin-left: 12px;
+   display: inline-block;
+    margin-top: 1.5em;
+}
+
+p#error {
+    margin-left: 0;
+}
+
+.btn-default {
+    /*width: 6em;*/
+    margin-left: 1em;
+    float: left;
+}
+
+.dropdown {
+    text-align: center;
+}
+
+
+
+/*.form-control {*/
+    /*!*height: 12px;*!*/
+    /*margin-top: 1em;*/
+    /*!*width: 400px;*!*/
+    /*!*display: inline;*!*/
+    /*!*padding: 10px 12px;*!*/
+/*}*/
+
+label {
+    /*color: black;*/
+    margin-top: 1.5em;
+    float: left;
+    width: 8em;
+    text-align: left;
+}
+
+input {
+    width: 6em;
+    margin: 1em 0 .5em 1em;
+    /*margin-left: 1em;*/
+    /*margin-bottom: .5em;*/
+}
+
+input#admin {
+    width: 2em;
+    margin-left: 1em;
+}
+
+ul.dropdown-menu>li {
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+h1, h2, h4 {
+    text-align: center;
+}
+
+h3 {
+    margin-left: 4%;
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*input.form-control {*/
+    /*margin-left: 12px;*/
+/*}*/
+
+p {
+    size: 3.5em;
+    font-weight: 500;
+    margin-top: 5px;
+    margin-left: 1em;
+}
+
+td {
+    text-align: center;
+    margin-top: 6px;
+}
+
+th {
+  text-align: center;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{
+    vertical-align: inherit;
+}
+
+a#checkInLink{
+    margin-left: 0;
+}
+/**************************************************************/
+
+/** {*/
+    /*margin: 0;*/
+    /*padding: 0;*/
+/*}*/
+/*body {*/
+    /*font: 14px/1.4 Georgia, Serif;*/
+/*}*/
+/*#page-wrap {*/
+    /*margin: 50px;*/
+/*}*/
+/*p {*/
+    /*margin: 20px 0;*/
+/*}*/
+
+/*!**/
+/*Generic Styling, for Desktops/Laptops*/
+/**!*/
+/*table {*/
+    /*width: 100%;*/
+    /*border-collapse: collapse;*/
+/*}*/
+/*!* Zebra striping *!*/
+/*tr:nth-of-type(odd) {*/
+    /*background: #eee;*/
+/*}*/
+/*th {*/
+    /*background: #333;*/
+    /*color: white;*/
+    /*font-weight: bold;*/
+/*}*/
+/*td, th {*/
+    /*padding: 6px;*/
+    /*border: 1px solid #ccc;*/
+    /*text-align: left;*/
+/*}*/
